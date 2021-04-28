@@ -1,0 +1,25 @@
+{
+   "name": "singl",
+   "version": "1.0.0",
+   "main": "dist/index.js",
+   "repository": "git@github.com:loicnestler/singl.git",
+   "author": "Loïc Nestler <loic.nestler@gmail.com>",
+   "license": "MIT",
+   "devDependencies": {
+      "@types/ioredis": "^4.26.0",
+      "@types/mongoose": "^5.10.5",
+      "@types/node": "^15.0.1",
+      "@typescript-eslint/eslint-plugin": "^4.22.0",
+      "@typescript-eslint/parser": "^4.22.0",
+      "eslint": "^7.25.0",
+      "eslint-config-prettier": "^8.3.0",
+      "ioredis": "^4.27.1",
+      "mongoose": "^5.12.6",
+      "prettier": "^2.2.1",
+      "typescript": "^4.2.4"
+   },
+   "scripts": {
+      "build": "tsc",
+      "lint": "eslint ."
+   }
+}
