@@ -1,9 +1,9 @@
 {
-   "name": "singl",
+   "name": "singx",
    "version": "1.0.0",
    "main": "dist/index.js",
    "types": "dist/index.d.ts",
-   "repository": "git@github.com:loicnestler/singl.git",
+   "repository": "git@github.com:loicnestler/singx.git",
    "author": "Loïc Nestler <loic.nestler@gmail.com>",
    "license": "MIT",
    "devDependencies": {
